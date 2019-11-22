@@ -14,3 +14,4 @@
 Route::get('index', 'IndexController@index');
 Route::get('home', 'IndexController@home');
 Route::get('cctv','IndexController@cctv');
+Route::get('api','IndexController@api');
